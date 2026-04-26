@@ -120,6 +120,27 @@
 
 ---
 
+## 🏆 My Story
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/MISync.jpg" width="240"/>
+</td>
+<td align="center">
+<img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/BIT.jpg" width="240"/>
+</td>
+</tr>
+</table>
+
+<p align="center">
+🏅 Achieved Top 3 among 114 teams in MIS Talent Competition and received Prize B in a research project on Green Transformation.  
+These experiences shaped my analytical thinking and strengthened my passion for Business Analysis.
+</p>
+
+
+
+
 <p align="center">
   💖 <i>Bridging business needs with technology through structured thinking</i>
 </p>
