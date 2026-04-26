@@ -1,7 +1,11 @@
-<p align="left">
-  <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/%E1%BA%A2nh_profile.jpg" width="180"/>
-</p>
 
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/%E1%BA%A2nh_profile.jpg" width="180" width="160" style="border-radius:50%;" />
+
+<br><br>
 
 <h1 align="center">Hi 👋, I'm Phan Le Hoang Phuc</h1>
 <h3 align="center">🌸 Business Analyst Intern | MIS Student at UEH</h3>
