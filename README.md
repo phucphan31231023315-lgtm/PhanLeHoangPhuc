@@ -1,26 +1,20 @@
 
 <table>
 <tr>
-<td width="65%">
+<td width="160">
 
-<h1>Hi 👋, I'm Phan Le Hoang Phuc</h1>
-<h3>🌸 Business Analyst Intern</h3>
-
-<p>
-💼 Business Analyst enthusiast with experience in ERP, CRM and data-driven solutions.<br>
-🎸 Guitar player | ⚽ Goalkeeper | 🎥 Building personal brand on TikTok
-</p>
+<img src="LINK_ẢNH" width="140" style="border-radius:50%;" />
 
 </td>
 
-<td width="35%" align="center">
+<td>
 
-<img src="LINK_ẢNH" width="180" style="border-radius:50%;" />
+<h2>Hi 👋, I'm Phan Le Hoang Phuc</h2>
+<h4>🌸 Business Analyst Intern | MIS Student at UEH</h4>
 
 </td>
 </tr>
 </table>
-
 ---
 
 <h1 align="center">Hi 👋, I'm Phan Le Hoang Phuc</h1>
