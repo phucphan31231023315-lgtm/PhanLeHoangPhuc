@@ -3,7 +3,7 @@
 <tr>
 <td width="160">
 
-<img src="LINK_ẢNH" width="140" style="border-radius:50%;" />
+<img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/%E1%BA%A2nh_profile.jpg" width="140" style="border-radius:50%;" />
 
 </td>
 
