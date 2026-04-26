@@ -114,7 +114,7 @@
 ---
 
 ## 🏆 Achievements
-- 🥉 Top 3 / 114 teams —-MIS Talent Competition (NEU)  
+- 🥉 Top 3 / 114 teams - MIS Talent Competition (NEU)  
 - 🏅 Prize B - Scientific Research on Green Transformation  
 - 📊 GPA: 3.4 / 4.0  
 
