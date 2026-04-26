@@ -133,7 +133,7 @@
 <p align="center">
   <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/MISync.jpg" width="220" style="border: 3px solid #ffd6e0; border-radius: 12px; margin:5px;"/>
   <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/BIT.jpg" width="220" style="border: 3px solid #c7f0db; border-radius: 12px; margin:5px;"/>
-  <img src="" width="220" style="border: 3px solid #d6e4ff; border-radius: 12px; margin:5px;"/>
+  <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/z7765986072363_37d14956b953407f49e3bf174278e1d6.jpg" width="220" style="border: 3px solid #d6e4ff; border-radius: 12px; margin:5px;"/>
 </p>
 
 <br>
