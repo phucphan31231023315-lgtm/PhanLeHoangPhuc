@@ -24,12 +24,45 @@
 ---
 
 ## 🛠️ Tools & Technologies
-<p align="center">
+
+### 📊 Business Analysis & Visualization
+<p>
   <img src="https://img.shields.io/badge/PowerBI-ffe0ac?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Figma-ffdac1?style=for-the-badge&logo=figma"/>
   <img src="https://img.shields.io/badge/Draw.io-e2f0cb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-c7ceea?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-b5ead7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PowerDesigner-c7ceea?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Figma-ffdac1?style=for-the-badge&logo=figma"/>
+</p>
+
+### 🏢 ERP & CRM Systems
+<p>
+  <img src="https://img.shields.io/badge/Odoo-b5ead7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dynamics%20365-a0c4ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SAP-ffd6a5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Salesforce-ffb7b2?style=for-the-badge&logo=salesforce"/>
+  <img src="https://img.shields.io/badge/Bizfly-ff9aa2?style=for-the-badge"/>
+</p>
+
+### 📈 Marketing & Customer Tools
+<p>
+  <img src="https://img.shields.io/badge/Facebook%20Ads-c7ceea?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Ads-b5ead7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UCall-ffdac1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lead%20Generation-ffe0ac?style=for-the-badge"/>
+</p>
+
+### 💻 Data & Development
+<p>
+  <img src="https://img.shields.io/badge/SQL-a0c4ff?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-e2f0cb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-ffd6a5?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML-ffb7b2?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-ff9aa2?style=for-the-badge&logo=css3"/>
+</p>
+
+### 🌐 Website & Platforms
+<p>
+  <img src="https://img.shields.io/badge/WordPress-c7ceea?style=for-the-badge&logo=wordpress"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-b5ead7?style=for-the-badge"/>
 </p>
 
 ---
@@ -64,26 +97,6 @@
 - 🥉 Top 3 / 114 teams — MIS Talent Competition (NEU)  
 - 🏅 Prize B — Scientific Research on Green Transformation  
 - 📊 GPA: 3.4 / 4.0  
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:phuchoang.path@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff9aa2?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-a0c4ff?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
