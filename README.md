@@ -19,11 +19,9 @@
 ---
 
 ## 🌷 About Me
-- 🎓 MIS Student at University of Economics Ho Chi Minh City (UEH)  
-- 💼 Aspiring Business Analyst with hands-on experience in ERP & CRM  
-- 🔍 Strong in Requirement Gathering, Process Modeling, and UAT  
-- ⚡ Experience supporting data-driven decision making  
-- 🌱 Continuously learning BA practices and system implementation  
+💼 Business Analyst enthusiast with experience in ERP, CRM, requirement analysis and UAT testing.  
+🎸 Guitar player | ⚽ Goalkeeper | 🎥 Building personal brand on TikTok
+
 
 ---
 
