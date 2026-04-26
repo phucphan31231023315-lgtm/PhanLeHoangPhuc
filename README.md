@@ -1,4 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #050505; /* Nền tối như vũ trụ */
+}
 
+.earth {
+    width: 300px;
+    height: 300px;
+    background: url('https://i.imgur.com/uG9989G.jpg'); /* Đường dẫn ảnh bản đồ Trái Đất */
+    background-size: cover;
+    border-radius: 50%;
+    /* Tạo hiệu ứng khối cầu và phát sáng xanh quanh Trái Đất */
+    box-shadow: inset -20px -20px 50px rgba(0,0,0,0.8),
+                0 0 50px rgba(0, 191, 255, 0.4); 
+    animation: rotateEarth 20s linear infinite;
+}
+
+@keyframes rotateEarth {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: 630px 0; /* Điều chỉnh tùy theo chiều rộng ảnh nền */
+    }
+}
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,25:e7c6ff,50:c8e7ff,75:d0f4de,100:fff1c1&height=85&section=header&animation=twinkling" />
