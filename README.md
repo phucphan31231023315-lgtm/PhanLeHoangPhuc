@@ -19,6 +19,9 @@
 </td>
 
 <td>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Phan+Le+Hoang+Phuc;Business+Analyst+Intern+%7C+MIS+Student+at+UEH" />
+</p>
 
 <h1 style="margin-bottom:5px;">Hi 👋, I'm Phan Le Hoang Phuc</h1>
 <h3 style="margin-top:0;"> Business Analyst Intern | MIS Student at UEH</h3>
@@ -149,7 +152,7 @@
 
 
 <p align="center">
-  💖 <i>Bridging business needs with technology through structured thinking</i>
+  💖 <i>Strong in spirit, sharp in analysis, passionate in learning</i>
 </p>
 
 <!-- FOOTER -->
