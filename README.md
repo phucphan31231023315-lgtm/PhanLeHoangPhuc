@@ -1,18 +1,19 @@
-
-<table>
+<table border="0">
 <tr>
-<td width="160">
+<td width="170" valign="middle">
 
-<img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/%E1%BA%A2nh_profile.jpg" width="140" style="border-radius:50%;" />
-
-</td>
-
-<td>
-
-<h2>Hi 👋, I'm Phan Le Hoang Phuc</h2>
-<h4>🌸 Business Analyst Intern | MIS Student at UEH</h4>
+<img src="LINK_ẢNH" width="140" style="border-radius:50%;" />
 
 </td>
+
+<td valign="middle">
+
+<h1 style="margin:0;">Hi 👋, I'm Phan Le Hoang Phuc</h1>
+<h3 style="margin:0;">🌸 Business Analyst Intern | MIS Student at UEH</h3>
+
+</td>
+</tr>
+</table>
 </tr>
 </table>
 ---
