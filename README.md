@@ -120,27 +120,6 @@
 
 ---
 
-## 🏆 My Story
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/MISync.jpg" width="240"/>
-</td>
-<td align="center">
-<img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/BIT.jpg" width="240"/>
-</td>
-<td align="center">
-<img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/z7765939962231_2d172235c018949efea4b4c426d7cbde.jpg" width="240"/>
-</td>
-</tr>
-</table>
-
-<p align="center">
-During my three years at university, I didn’t simply grow — I was pushed beyond my limits. From a student who nearly failed to enter the University of Economics, I now look back with pride, knowing I gave my all, kept learning, and never stopped striving. I believe even greater things lie ahead.
-</p>
-
-
 ## ✨ My Journey
 
 <p align="center">
@@ -152,9 +131,9 @@ During my three years at university, I didn’t simply grow — I was pushed bey
 <br>
 
 <p align="center">
-  <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/MISync.jpg" width="220"/>
-  <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/BIT.jpg" width="220"/>
-  <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/z7765939962231_2d172235c018949efea4b4c426d7cbde.jpg" width="220"/>
+  <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/MISync.jpg" width="220" style="border: 3px solid #ffd6e0; border-radius: 12px; margin:5px;"/>
+  <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/BIT.jpg" width="220" style="border: 3px solid #c7f0db; border-radius: 12px; margin:5px;"/>
+  <img src="" width="220" style="border: 3px solid #d6e4ff; border-radius: 12px; margin:5px;"/>
 </p>
 
 <br>
