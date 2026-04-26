@@ -114,8 +114,8 @@
 ---
 
 ## 🏆 Achievements
-- 🥉 Top 3 / 114 teams — MIS Talent Competition (NEU)  
-- 🏅 Prize B — Scientific Research on Green Transformation  
+- 🥉 Top 3 / 114 teams —-MIS Talent Competition (NEU)  
+- 🏅 Prize B - Scientific Research on Green Transformation  
 - 📊 GPA: 3.4 / 4.0  
 
 ---
@@ -140,7 +140,7 @@
 
 <p align="center">
   <i>
-  During my three years at university, I didn’t simply grow — I was pushed beyond my limits.<br>
+  During my three years at university, I didn’t simply grow - I was pushed beyond my limits.<br>
   From a student who nearly failed to enter the University of Economics, I now look back with pride,<br>
   knowing I gave my all, kept learning, and never stopped striving.<br>
   I believe even greater things lie ahead.
