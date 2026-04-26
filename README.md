@@ -33,15 +33,6 @@
 
 ---
 
-## 🧩 Core Competencies
-- Requirement Gathering & Analysis  
-- Business Process Modeling (BPMN)  
-- User Story & BRD Documentation  
-- UAT Testing & Stakeholder Communication  
-- Data Analysis & Reporting  
-
----
-
 ## 🛠️ Tools & Technologies
 
 ### 📊 Business Analysis & Visualization
@@ -86,12 +77,12 @@
 
 ---
 
-## 🏢 Systems Experience
-- ERP: Odoo (Sales, Inventory, POS, E-commerce)  
-- CRM: Bizfly  
+## 🏢 Experience
+- ERP: Odoo, SAP, Dynamics 365, Salesforce, Bizfly
 - Marketing: UCall, Facebook Ads, Google Ads  
 - Web: HTML, CSS, JavaScript, WordPress  
-
+- AI: Effective in communicating with AI
+- E-commerce: Wholesale and retail processes integrated with Odoo
 ---
 
 ## 📌 Project Experience
