@@ -1,32 +1,180 @@
-body {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background: #050505; /* Nền tối như vũ trụ */
+html, body {
+    /* The universe takes up all available space */
+    width: 100%;
+    height: 100vh;
+    overflow:hidden;
+    
+    /* The universe is black */
+    background-color: black;
 }
 
-.earth {
-    width: 300px;
-    height: 300px;
-    background: url('https://i.imgur.com/uG9989G.jpg'); /* Đường dẫn ảnh bản đồ Trái Đất */
-    background-size: cover;
+#sun {
+    position: absolute;
+    /* Positions the top-left corner of the image to be *
+    /* in the middle of the box */
+    top: 50%;
+    left: 50%;
+    
+    /* Play with these numbers to see what it does */
+    height: 200px;
+    width: 200px;
+    margin-top: -100px; 
+    margin-left: -100px;
+    
+    border-color: orange;
+    border-width: 1px;
+    border-style: solid;
     border-radius: 50%;
-    /* Tạo hiệu ứng khối cầu và phát sáng xanh quanh Trái Đất */
-    box-shadow: inset -20px -20px 50px rgba(0,0,0,0.8),
-                0 0 50px rgba(0, 191, 255, 0.4); 
-    animation: rotateEarth 20s linear infinite;
+    
+    box-shadow: 0 0 128px red;
+    background: yellow;
 }
 
-@keyframes rotateEarth {
-    from {
-        background-position: 0 0;
-    }
-    to {
-        background-position: 630px 0; /* Điều chỉnh tùy theo chiều rộng ảnh nền */
-    }
+#earth {
+    /* Style your earth */
+    position: absolute;
+    top: 0;
+    left: 50%;
+    
+    height: 50px;
+    width: 50px;
+    margin-left: -25px;
+    margin-top: -25px;
+    
+    border-color: blue;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 50%;
+    
+    -webkit-box-shadow: 0px 0px 20px 0px rgba(255, 255, 255, 0.5);
+-moz-box-shadow:    0px 0px 20px 0px rgba(255, 255, 255, 0.5);
+box-shadow:         0px 0px 20px 0px rgba(255, 255, 255, 0.5);
+  background: lightblue;
+}
+
+#earth-orbit {
+    /* For Section #2 */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    width: 650px;
+    height: 500px;
+    margin-top: -250px;
+    margin-left: -250px;
+
+    border-width: 0px;
+    border-style: dotted;
+    border-color: white;
+    border-radius: 50%;
+    
+    -webkit-animation: spin-right 10s linear infinite;
+     -moz-animation: spin-right 10s linear infinite;
+      -ms-animation: spin-right 10s linear infinite;
+       -o-animation: spin-right 10s linear infinite;
+          animation: spin-right 10s linear infinite;
+}
+
+#moon {
+    /* Style your earth */
+    position: absolute;
+    top: 0;
+    left: 50%;
+    
+    height: 20px;
+    width: 20px;
+    margin-left: -25px;
+    margin-top: -25px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    
+    -webkit-box-shadow: 1px 1px 16px 0px rgba(255, 255, 255, .6);
+-moz-box-shadow:    1px 1px 16px 0px rgba(255, 255, 255, .6);
+box-shadow:         1px 1px 16px 0px rgba(255, 255, 255, .6);
+  background: lightgray;
+}
+
+#moon-orbit {
+    /* For Section #2 */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    width: 110px;
+    height: 80px;
+    margin-top: -285px;
+    margin-left: -45px;
+
+    border-width: 0px;
+    border-style: dotted;
+    border-color: white;
+    border-radius: 50%;
+    
+    -webkit-animation: spin-right 10s linear infinite;
+     -moz-animation: spin-right 10s linear infinite;
+      -ms-animation: spin-right 10s linear infinite;
+       -o-animation: spin-right 10s linear infinite;
+          animation: spin-right 10s linear infinite;
+}
+
+@-webkit-keyframes spin-right {
+  100% {
+    -webkit-transform: rotate(360deg);
+       -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+         -o-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes spin-right {
+  100% {
+    -webkit-transform: rotate(360deg);
+       -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+         -o-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+.stars {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.star {
+    width: 2px;
+    height: 2px;
+    border-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: white;
+    position: absolute;
+    left: 40px;
+    top: 40px;
+    -webkit-shadow: 0 0 8px 2px rgba(255,255,255,0.6);
+    -moz-shadow: 0 0 8px 2px rgba(255,255,255,0.6);
+    box-shadow: 0 0 8px 2px rgba(255,255,255,0.6)
+    animation: star 4s infinite;
+    -webkit-animation: star 4s infinite; /* Safari and Chrome */
+}
+
+@keyframes star
+{
+0% {opacity: 0.2;}
+50% {opacity: 1;}
+100% {opacity: 0.2;}
+}
+
+@-webkit-keyframes star
+{
+0% {opacity: 0.2;}
+50% {opacity: 1;}
+100% {opacity: 0.2;}
 }
 <!-- HEADER BANNER -->
 <p align="center">
