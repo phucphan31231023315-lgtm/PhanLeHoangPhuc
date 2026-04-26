@@ -1,96 +1,107 @@
-<h2 align="center">Hi 👋, I'm Phan Le Hoang Phuc</h2>
-<p align="center">
-  <h3 align="center">A passionate Business Analyst from Vietnam</h3>
-</p>
-
-> ✍ I'm a student at UEH (University of Economics Ho Chi Minh City).
+<h1 align="center">Hi 👋, I'm Phan Le Hoang Phuc</h1>
+<h3 align="center">🌸 Business Analyst Intern | MIS Student at UEH</h3>
 
 ## 📫 How to reach me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fukwang_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/phúc-phan-lê-hoàng-5619882b9) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@fusquang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phuchoang.path@gmail.com) 
 
-<h1 align="center">Hi 👋, I'm Phan Le Hoang Phuc</h1>
-<h3 align="center">🚀 Business Analyst Intern | MIS Student at UEH</h3>
 
 <p align="center">
-  <i>Passionate about bridging business and technology through data-driven insights</i>
+  <img src="https://img.shields.io/badge/Focus-Business%20Analysis-ffb6c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interest-ERP%20%26%20CRM-b5ead7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Goal-Data--Driven%20Decision%20Making-c7ceea?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  🌿 Turning business needs into structured solutions through analysis & technology
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌷 About Me
 - 🎓 MIS Student at University of Economics Ho Chi Minh City (UEH)  
-- 📊 Strong interest in Business Analysis, ERP systems & Digital Transformation  
-- 🔍 Skilled in requirement gathering, process modeling, and UAT  
-- ⚡ Experience in CRM systems and marketing tools  
-- 🌱 Currently learning advanced BA skills & real-world project implementation  
+- 💼 Aspiring Business Analyst with hands-on experience in ERP & CRM  
+- 🔍 Strong in Requirement Gathering, Process Modeling, and UAT  
+- ⚡ Experience supporting data-driven decision making  
+- 🌱 Continuously learning BA practices and system implementation  
 
 ---
 
-## 🧠 Skills
-
-### 📌 Business Analysis
-- Requirement Gathering, BRD, User Stories  
-- Process Modeling (Draw.io, PowerDesigner)  
+## 🧩 Core Competencies
+- Requirement Gathering & Analysis  
+- Business Process Modeling (BPMN)  
+- User Story & BRD Documentation  
 - UAT Testing & Stakeholder Communication  
+- Data Analysis & Reporting  
 
-### 🛠️ Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma"/>
-  <img src="https://img.shields.io/badge/Draw.io-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql"/>
+---
+
+## 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-ffe0ac?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Figma-ffdac1?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/Draw.io-e2f0cb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-c7ceea?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-b5ead7?style=for-the-badge"/>
 </p>
 
-### 🏢 Systems & Platforms
-- ERP: Odoo, Dynamics 365  
+---
+
+## 🏢 Systems Experience
+- ERP: Odoo (Sales, Inventory, POS, E-commerce)  
 - CRM: Bizfly  
 - Marketing: UCall, Facebook Ads, Google Ads  
+- Web: HTML, CSS, JavaScript, WordPress  
 
 ---
 
-## 📂 Experience Highlights
+## 📌 Project Experience
 
-### 💼 Business Analyst Intern
-- Collected and analyzed business requirements for ERP and mobile application projects  
-- Translated requirements into system workflows and supported UAT testing  
-- Collaborated with stakeholders and developers to improve system features  
+### 🚀 Odoo ERP Implementation
+- Collected and analyzed business requirements from stakeholders  
+- Translated requirements into ERP workflows  
+- Supported system configuration and UAT testing  
 
-### ⚙️ System Administration Intern
-- Managed CRM (Bizfly) for customer data and sales operations  
-- Supported marketing campaigns using Facebook Ads and lead generation tools  
-- Automated reporting using Google Apps Script for better decision-making  
+### 📱 Mobile Application (WikiMoney)
+- Gathered user requirements for feature development  
+- Performed testing and reported issues to developers  
+
+### ⚙️ CRM & Marketing Optimization
+- Managed customer data using Bizfly CRM  
+- Supported campaigns with Facebook Ads and lead generation tools  
+- Automated reporting using Google Apps Script  
 
 ---
 
 ## 🏆 Achievements
-- 🥉 Top 3 / 114 teams - MIS Talent Competition (NEU)  
-- 📚 GPA 3.4 / 4.0  
-- 🏅 Prize B - Scientific Research Contest on Green Transformation  
+- 🥉 Top 3 / 114 teams — MIS Talent Competition (NEU)  
+- 🏅 Prize B — Scientific Research on Green Transformation  
+- 📊 GPA: 3.4 / 4.0  
 
 ---
 
-## 📫 Connect with me
+## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:phuchoang.path@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-ff9aa2?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-a0c4ff?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  💡 "Turning business needs into effective digital solutions"
+  💖 <i>Bridging business needs with technology through structured thinking</i>
 </p>
+
 
