@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,25:e7c6ff,50:c8e7ff,75:d0f4de,100:fff1c1&height=85&section=header&animation=twinkling" />
 </p>
-<h2>Hi 👋, I'm Phan Le Hoang Phuc</h2>
 
 </div>
 
