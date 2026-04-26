@@ -1,3 +1,150 @@
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,25:e7c6ff,50:c8e7ff,75:d0f4de,100:fff1c1&height=85&section=header&animation=twinkling" />
+</p>
+
+<div style="margin-top:-60px;"></div>
+
+<!-- INTRO -->
+<div align="center">
+
+<img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/%E1%BA%A2nh_profile.jpg" width="120" style="border-radius:50%;" />
+
+<h2>Hi 👋, I'm Phan Le Hoang Phuc</h2>
+<p><i>Business Analyst Intern | MIS Student at UEH</i></p>
+
+</div>
+
+---
+
+<!-- CONTACT -->
+<h2 align="center">🌐 Connect with me</h2>
+
+<p align="center">
+  <a href="https://instagram.com/fukwang_"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="https://linkedin.com/in/phúc-phan-lê-hoàng-5619882b9"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://tiktok.com/@fusquang"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok"/></a>
+  <a href="mailto:phuchoang.path@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
+
+---
+
+<!-- ABOUT -->
+<h2 align="center">🌷 About Me</h2>
+
+<p align="center">
+💼 An ambitious and driven individual who is always committed to giving my best and creating meaningful value. <br>
+🎸 Guitar player | ⚽ Goalkeeper | 🎥 Building personal brand on TikTok
+</p>
+
+---
+
+<!-- TECH -->
+<h2 align="center">🛠 Technologies & Tools</h2>
+
+<h4 align="center">📊 Business Analysis & Visualization</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-ffe0ac?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Draw.io-e2f0cb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PowerDesigner-c7ceea?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Figma-ffdac1?style=for-the-badge&logo=figma"/>
+</p>
+
+<h4 align="center">🏢 ERP & CRM Systems</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-b5ead7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dynamics%20365-a0c4ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SAP-ffd6a5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Salesforce-ffb7b2?style=for-the-badge&logo=salesforce"/>
+  <img src="https://img.shields.io/badge/Bizfly-ff9aa2?style=for-the-badge"/>
+</p>
+
+<h4 align="center">📈 Marketing & Customer Tools</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Facebook%20Ads-c7ceea?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Ads-b5ead7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UCall-ffdac1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lead%20Generation-ffe0ac?style=for-the-badge"/>
+</p>
+
+<h4 align="center">💻 Data & Development</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-a0c4ff?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-e2f0cb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-ffd6a5?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML-ffb7b2?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-ff9aa2?style=for-the-badge&logo=css3"/>
+</p>
+
+<h4 align="center">🌐 Website & Platforms</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-c7ceea?style=for-the-badge&logo=wordpress"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-b5ead7?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- EXPERIENCE -->
+<h2 align="center">🏢 Experience</h2>
+
+<p align="center">
+ERP: Odoo, SAP, Dynamics 365, Salesforce, Bizfly <br>
+Marketing: UCall, Facebook Ads, Google Ads <br>
+Web: HTML, CSS, JavaScript, WordPress <br>
+AI: Effective in communicating with AI <br>
+E-commerce: Wholesale and retail processes integrated with Odoo
+</p>
+
+---
+
+<!-- PROJECT -->
+<h2 align="center">📌 Project Experience</h2>
+
+### 🚀 Odoo ERP Implementation
+- Collected and analyzed business requirements from stakeholders  
+- Translated requirements into ERP workflows  
+- Supported system configuration and UAT testing  
+
+### 📱 Mobile Application (WikiMoney)
+- Gathered user requirements for feature development  
+- Performed testing and reported issues to developers  
+
+### ⚙️ CRM & Marketing Optimization
+- Managed customer data using Bizfly CRM  
+- Supported campaigns with Facebook Ads and lead generation tools  
+- Automated reporting using Google Apps Script  
+
+---
+
+<!-- ACHIEVEMENT -->
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+🥉 Top 3 / 114 teams — MIS Talent Competition (NEU) <br>
+🏅 Prize B — Scientific Research on Green Transformation <br>
+📊 GPA: 3.4 / 4.0  
+</p>
+
+---
+
+<!-- STATS -->
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phucphan31231023315-lgtm&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phucphan31231023315-lgtm&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  💖 <i>Bridging business needs with technology through structured thinking</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff1c1,50:c8e7ff,100:e7c6ff&height=80&section=footer"/>
+</p>
+
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,25:e7c6ff,50:c8e7ff,75:d0f4de,100:fff1c1&height=85&section=header&animation=twinkling" />
