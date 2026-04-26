@@ -1,10 +1,7 @@
 <!-- HEADER BANNER -->
-<div align="center" style="margin-top:-70px;">
-
-<img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/%E1%BA%A2nh_profile.jpg" 
-width="110" 
-style="border-radius:50%; border:4px solid white;" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,25:e7c6ff,50:c8e7ff,75:d0f4de,100:fff1c1&height=85&section=header&animation=twinkling" />
+</p>
 <h2>Hi 👋, I'm Phan Le Hoang Phuc</h2>
 
 </div>
