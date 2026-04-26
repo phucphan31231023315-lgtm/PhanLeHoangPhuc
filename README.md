@@ -130,15 +130,43 @@
 <td align="center">
 <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/BIT.jpg" width="240"/>
 </td>
+<td align="center">
+<img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/z7765939962231_2d172235c018949efea4b4c426d7cbde.jpg" width="240"/>
+</td>
 </tr>
 </table>
 
 <p align="center">
-🏅 Achieved Top 3 among 114 teams in MIS Talent Competition and received Prize B in a research project on Green Transformation.  
-These experiences shaped my analytical thinking and strengthened my passion for Business Analysis.
+During my three years at university, I didn’t simply grow — I was pushed beyond my limits. From a student who nearly failed to enter the University of Economics, I now look back with pride, knowing I gave my all, kept learning, and never stopped striving. I believe even greater things lie ahead.
 </p>
 
 
+## ✨ My Journey
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Growth-Journey-ffb6c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Never%20Stop-Learning-b5ead7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Keep-Striving-c7ceea?style=for-the-badge"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/MISync.jpg" width="220"/>
+  <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/BIT.jpg" width="220"/>
+  <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/z7765939962231_2d172235c018949efea4b4c426d7cbde.jpg" width="220"/>
+</p>
+
+<br>
+
+<p align="center">
+  <i>
+  During my three years at university, I didn’t simply grow — I was pushed beyond my limits.<br>
+  From a student who nearly failed to enter the University of Economics, I now look back with pride,<br>
+  knowing I gave my all, kept learning, and never stopped striving.<br>
+  I believe even greater things lie ahead.
+  </i>
+</p>
 
 
 <p align="center">
