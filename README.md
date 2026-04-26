@@ -1,14 +1,14 @@
 <div align="center">
 
-<table>
+<table cellspacing="0" cellpadding="0">
 <tr>
-<td width="170" align="left">
+<td width="160">
 
 <img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/%E1%BA%A2nh_profile.jpg" width="130"/>
 
 </td>
 
-<td align="left">
+<td>
 
 <h1 style="margin-bottom:5px;">Hi 👋, I'm Phan Le Hoang Phuc</h1>
 <h3 style="margin-top:0;">🌸 Business Analyst Intern | MIS Student at UEH</h3>
@@ -19,7 +19,6 @@
 
 </div>
 
----
 
 <h1 align="center">Hi 👋, I'm Phan Le Hoang Phuc</h1>
 <h3 align="center">🌸 Business Analyst Intern | MIS Student at UEH</h3>
