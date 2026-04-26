@@ -27,6 +27,7 @@
 
 ## 🌷 About Me
 💼 An ambitious and driven individual who is always committed to giving my best and creating meaningful value.
+<br>
 🎸 Guitar player | ⚽ Goalkeeper | 🎥 Building personal brand on TikTok
 
 
