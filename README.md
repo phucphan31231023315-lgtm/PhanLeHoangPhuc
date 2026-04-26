@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=120&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,25:e7c6ff,50:c8e7ff,75:d0f4de,100:fff1c1&height=110&section=header&animation=twinkling" />
 </p>
 
 <div align="center">
