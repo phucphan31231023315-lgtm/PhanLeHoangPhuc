@@ -26,7 +26,7 @@
 ---
 
 ## 🌷 About Me
-💼 Business Analyst enthusiast with experience in ERP, CRM, requirement analysis and UAT testing.  
+💼 An ambitious and driven individual who is always committed to giving my best and creating meaningful value.
 🎸 Guitar player | ⚽ Goalkeeper | 🎥 Building personal brand on TikTok
 
 
