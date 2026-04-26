@@ -11,7 +11,7 @@
 <td>
 
 <h1 style="margin-bottom:5px;">Hi 👋, I'm Phan Le Hoang Phuc</h1>
-<h3 style="margin-top:0;">🌸 Business Analyst Intern | MIS Student at UEH</h3>
+<h3 style="margin-top:0;"> Business Analyst Intern | MIS Student at UEH</h3>
 
 </td>
 </tr>
