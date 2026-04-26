@@ -1,130 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Phan%20Le%20Hoang%20Phuc&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<!-- AVATAR + INTRO -->
-<div align="center">
-
-<img src="https://github.com/phucphan31231023315-lgtm/Up_-nh/blob/main/%E1%BA%A2nh_profile.jpg" width="120" style="border-radius:50%;" />
-
-<h2>Hi 👋, I'm Phan Le Hoang Phuc</h2>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Business+Analyst+Intern;MIS+Student+at+UEH;Love+Data+%26+Technology;Building+Personal+Brand" />
-</p>
-
-</div>
-
----
-
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://instagram.com/fukwang_"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/phúc-phan-lê-hoàng-5619882b9"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:phuchoang.path@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
-
----
-
-## 🌷 About Me
-
-💼 An ambitious and driven individual who is always committed to giving my best and creating meaningful value.  
-🎸 Guitar player | ⚽ Goalkeeper | 🎥 Building personal brand on TikTok  
-
----
-
-## 🚀 Tech Stack
-
-### 📊 Business Analysis
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Draw.io-green?style=for-the-badge"/>
-</p>
-
-### 🏢 ERP & CRM
-<p align="center">
-  <img src="https://img.shields.io/badge/Odoo-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SAP-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dynamics365-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge"/>
-</p>
-
-### 📈 Marketing
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=facebook,google" />
-</p>
-
-### 💻 Data & Dev
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,mysql" />
-</p>
-
----
-
-## 🏢 Experience
-
-- ERP: Odoo, SAP, Dynamics 365, Salesforce, Bizfly  
-- Marketing: UCall, Facebook Ads, Google Ads  
-- Web: HTML, CSS, JavaScript, WordPress  
-- AI: Effective in communicating with AI  
-- E-commerce: Wholesale and retail processes integrated with Odoo  
-
----
-
-## 📌 Project Experience
-
-### 🚀 Odoo ERP Implementation
-- Collected and analyzed business requirements  
-- Translated into workflows  
-- Supported UAT testing  
-
-### 📱 Mobile App (WikiMoney)
-- Gathered requirements  
-- Testing & bug reporting  
-
-### ⚙️ CRM & Marketing Optimization
-- Managed Bizfly CRM  
-- Ran Facebook Ads campaigns  
-- Automated reports with Apps Script  
-
----
-
-## 🏆 Achievements
-
-- 🥉 Top 3 / 114 teams — MIS Talent Competition  
-- 🏅 Scientific Research Prize B  
-- 📊 GPA: 3.4 / 4.0  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phucphan31231023315-lgtm&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phucphan31231023315-lgtm&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucphan31231023315-lgtm&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-  💖 <i>Bridging business needs with technology through structured thinking</i>
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
 
 <div align="center">
 
@@ -242,4 +118,8 @@
   💖 <i>Bridging business needs with technology through structured thinking</i>
 </p>
 
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
 
