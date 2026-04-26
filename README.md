@@ -5,17 +5,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fukwang_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/phúc-phan-lê-hoàng-5619882b9) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@fusquang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phuchoang.path@gmail.com) 
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Business%20Analysis-ffb6c1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Interest-ERP%20%26%20CRM-b5ead7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Data--Driven%20Decision%20Making-c7ceea?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  🌿 Turning business needs into structured solutions through analysis & technology
-</p>
-
 ---
 
 ## 🌷 About Me
