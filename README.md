@@ -86,14 +86,6 @@
 
 ---
 
-## 🏢 Experience
-- ERP: Odoo, SAP, Dynamics 365, Salesforce, Bizfly
-- Marketing: UCall, Facebook Ads, Google Ads  
-- Web: HTML, CSS, JavaScript, WordPress  
-- AI: Effective in communicating with AI
-- E-commerce: Wholesale and retail processes integrated with Odoo
----
-
 ## 📌 Project Experience
 
 ### 🚀 Odoo ERP Implementation
